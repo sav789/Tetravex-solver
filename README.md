@@ -1,2 +1,2 @@
 # Tetravex-solver
-Solves a tetravex puzzle
+Solves a tetravex type puzzle
